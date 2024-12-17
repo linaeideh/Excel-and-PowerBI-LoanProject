@@ -1,4 +1,4 @@
-# Excel-and-PowerBI-LoanProject
+# Excel-and-PowerBI-LoanProjects
 An Excel and Power BI project for loan data analysis.
 ## Project Description
 This project analyzes loan data using Excel and Power BI to provide insights into factors affecting loan applicants, such as income, marital status, and number of dependents.
